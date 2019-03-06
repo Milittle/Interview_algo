@@ -15,14 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="SwordOffer\two_dimension_array_search.h">
+    <ClInclude Include="C++\SwordOffer\fibonacci.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="SwordOffer\replace_space.h">
+    <ClInclude Include="C++\SwordOffer\from_tail_to_head_array.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="SwordOffer\from_tail_to_head_array.h">
+    <ClInclude Include="C++\SwordOffer\jump_floor.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="C++\SwordOffer\replace_space.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C++\SwordOffer\two_dimension_array_search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C++\SwordOffer\unusual_jump_floor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Python\SwordOffer\two_dimension_array_search.py" />
+    <None Include="Python\SwordOffer\replace_sapce.py" />
+    <None Include="Python\SwordOffer\fibonacci.py" />
+    <None Include="Python\SwordOffer\jump_floor.py" />
+    <None Include="Python\SwordOffer\unusual_jump_floor.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Python\SwordOffer\print_from_tail_to_head.py" />
   </ItemGroup>
 </Project>
