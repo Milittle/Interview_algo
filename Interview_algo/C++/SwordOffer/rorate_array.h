@@ -1,4 +1,4 @@
-#pragma
+#pragma once
 #include<vector>
 class rorate_array{
 public:

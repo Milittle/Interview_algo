@@ -1,4 +1,4 @@
-#pragma
+#pragma once
 
 class number_of_one{
 public:

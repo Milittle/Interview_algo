@@ -1,4 +1,4 @@
-#pragma
+#pragma once
 #include <vector>
 struct TreeNode{
     int val_;

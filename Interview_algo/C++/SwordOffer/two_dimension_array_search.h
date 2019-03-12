@@ -4,7 +4,7 @@
 class two_dimension_array_search {
 public:
 
-	//暴力解法
+	//锟斤拷锟斤拷锟解法
 	bool Find(int target, std::vector<std::vector<int> > array) {
 		
 		for (auto it = array.begin(); it != array.end(); ++it)
@@ -18,7 +18,7 @@ public:
 		return false;
 	}
 
-	// 思路解法
+	// 思路锟解法
 	bool Find(int target, std::vector<std::vector<int> > array) {
 		for (auto it = array.begin(); it != array.end(); ++it)
 		{

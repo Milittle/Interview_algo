@@ -1,4 +1,4 @@
-#pragma
+#pragma once
 #include <vector>
 class re_order_array
 {

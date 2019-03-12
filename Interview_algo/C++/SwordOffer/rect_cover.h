@@ -1,5 +1,4 @@
-#pragma
-
+#pragma once
 class rect_cover{
 public:
     int rectCover(int number) {
